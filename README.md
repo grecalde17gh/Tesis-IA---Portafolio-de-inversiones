@@ -98,4 +98,4 @@ Para replicar los experimentos, asegúrate de tener instalados los siguientes co
 5. **Guardar cambios:**
    - Si realizas modificaciones, guarda una copia de la notebook en tu Google Drive o en tu repositorio de GitHub.
 
-[![Open In Colab](https://colab.research.google.com/drive/1vT70eSgPK2_vKaUR1k2bAAgP7fEzjs4R?usp=sharing)
+[Open In Colab](https://colab.research.google.com/drive/1vT70eSgPK2_vKaUR1k2bAAgP7fEzjs4R?usp=sharing)
