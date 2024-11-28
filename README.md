@@ -10,7 +10,6 @@ Este repositorio contiene la implementación de un proyecto de optimización de 
 5. [Resultados](#resultados)
 6. [Requisitos](#requisitos)
 7. [Cómo Ejecutar](#cómo-ejecutar)
-8. [Contribuidores](#contribuidores)
 
 ---
 
