@@ -76,7 +76,7 @@ Para replicar los experimentos, asegúrate de tener instalados los siguientes co
 
 ## 🚀 Cómo Ejecutar
 1. **Abrir la notebook en Google Colab:**
-   - Accede a la notebook haciendo clic en el siguiente enlace: [Notebook en Google Colab](URL_DE_LA_NOTEBOOK).
+   - Accede a la notebook haciendo clic en el siguiente enlace: [Notebook en Google Colab](https://colab.research.google.com/drive/1yoEukNhkkuSWiU9w-OaJkLqYYgSRkhNQ?usp=sharing).
 
 2. **Configurar el entorno:**
    - Asegúrate de que tu entorno de ejecución esté configurado para usar una GPU:
@@ -97,4 +97,4 @@ Para replicar los experimentos, asegúrate de tener instalados los siguientes co
 5. **Guardar cambios:**
    - Si realizas modificaciones, guarda una copia de la notebook en tu Google Drive o en tu repositorio de GitHub.
 
-[Open In Colab](https://colab.research.google.com/drive/1vT70eSgPK2_vKaUR1k2bAAgP7fEzjs4R?usp=sharing)
+[Open In Colab](https://colab.research.google.com/drive/1yoEukNhkkuSWiU9w-OaJkLqYYgSRkhNQ?usp=sharing)
